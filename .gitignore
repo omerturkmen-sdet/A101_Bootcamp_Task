@@ -1,0 +1,4 @@
+/target/
+/.idea/
+/ target/
+/src/test/resources/cucumber.properties
